@@ -20,12 +20,27 @@
   <img src="https://streak-stats.demolab.com?user=elfidiana178-cmd&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elfidiana178-cmd&show_icons=true&theme=tokyonight&cache_seconds=10" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elfidiana178-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450" />
+</p>
 
-### 🔗 Connect with Me
-- 📧 Email: *[isi email kalau ada]*  
-- 💼 LinkedIn: *[tambahkan link kalau ada]*  
-- 🌐 Portfolio: *[tambahkan link kalau ada]*  
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfidiana178-cmd&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" width="450"/>
+</p>
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfidiana178-cmd&theme=tokyo-night" alt="Contribution Graph of Elfidiana" width="100%"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elfidiana178-cmd&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
 
 ---
 
