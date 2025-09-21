@@ -1,46 +1,32 @@
-<!-- Hi there, welcome to my GitHub profile! 👋 -->
-
-# 👋 Hi, I’m elfidiana178-cmd
-
-Passionate developer & tech explorer. I love building things with Laravel, exploring cybersecurity, and creating useful apps for everyone.
+<h1 align="center">Hi 👋, I'm Elfidiana</h1>
+<h3 align="center">💻 Informatics Student | Enthusiast in Programming & Technology</h3>
 
 ---
 
-## 🚀 My Top Projects
-
-- [belalar-laravel12](https://github.com/Bangkah/belalar-laravel12) — Learning and building with Laravel 12, featuring CRUD and authentication.
-- [malware-sample](https://github.com/Bangkah/malware-sample) — Exploring malware samples for cybersecurity research.
-- [Muslim-Life](https://github.com/elfidiana178-cmd/Muslim-Life) — A lifestyle app for Muslims, built with 💡 and ❤️.
-- [Bangkah](https://github.com/elfidiana178-cmd/Bangkah) — Various personal and collaborative coding experiments.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- Laravel, PHP, JavaScript
-- Python (for security & data)
-- Cybersecurity basics
-- Mobile & Web Apps
+### 👩‍🎓 About Me
+- 🎓 Currently learning **C# and Desktop App Development**
+- 💡 Interested in **Software Engineering, Databases, and Web Development**
+- 🤝 Open to collaboration on interesting projects
+- 🌱 Exploring **Linux** and **open-source tools**
 
 ---
 
-## 🌱 Currently Learning
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elfidiana178-cmd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-- Advanced Laravel features
-- Malware analysis & security research
-- Building scalable applications
-
----
-
-## 📫 Connect With Me
-
-- [GitHub](https://github.com/elfidiana178-cmd)
-<!-- Tambahkan link sosial lain jika ada, misal LinkedIn, Website, Twitter -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elfidiana178-cmd&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-> “Coding is not just a skill, it’s a way to create solutions.”
+### 🔗 Connect with Me
+- 📧 Email: *[isi email kalau ada]*  
+- 💼 LinkedIn: *[tambahkan link kalau ada]*  
+- 🌐 Portfolio: *[tambahkan link kalau ada]*  
 
 ---
 
-![elfidiana178-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfidiana178-cmd&show_icons=true&theme=radical)
+✨ *"Code, Learn, Share, Repeat."* ✨
