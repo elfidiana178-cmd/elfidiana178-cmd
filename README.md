@@ -20,12 +20,6 @@
   <img src="https://streak-stats.demolab.com?user=elfidiana178-cmd&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elfidiana178-cmd&show_icons=true&theme=tokyonight&cache_seconds=10" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elfidiana178-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450" />
-</p>
-
 ## 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfidiana178-cmd&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" width="450"/>
